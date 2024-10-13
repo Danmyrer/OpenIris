@@ -1,5 +1,3 @@
-TEST
-
 # OpenIris
 
 OpenIris is the firmware part of the [EyeTrackVR Project](https://github.com/RedHawk989/EyeTrackVR).
